@@ -20,9 +20,9 @@
 
 </div>
 
-Projects
-OT Security Project
-Industrial Network Template
+### Projects
+- [OT Security Project](https://github.com/lucasdbrown/ot_security_project)
+- [Industrial Network Template](https://github.com/lucasdbrown/industrial_network_template)
 
 <!--
 **quickroom/quickroom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
